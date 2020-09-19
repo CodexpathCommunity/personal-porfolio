@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Emmanuel Jacob",
-    "occupation": "ReactJS Developer && Ceo Ibuild.com",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #codeXpath",
+    "name": "IBuild team",
+    "occupation": "A freelance company",
+    "description": "Experts in web application development and mobile application development",
     "image": "sky.jpg",
-    "bio": "My name is Emmanuel Jacob, I'm a Mern Stack ReactJS Developer. Currently I'm working at Ibuild a freelance company experts in Forntend web development ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "My name is Emmanuel Jacob, I'm a Mern Stack ReactJS Developer, Founder && ceo Ibuild team.",
+    "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
     "email": "emmanweke.ce@gmail.com",
     "phone": "+234 701 568 8584",
     "address": {
@@ -34,21 +34,21 @@
     ]
   },
   "resume": {
-    "skillmessage": "I'm a React.js developer with a ton of experience in programming. I bring your toughts to reality just contact me",
+    "skillmessage": "React.js Mern stack developers with a ton of experience in programming. I bring your toughts to reality just contact me",
     "education": [
       {
         "school": "University of Nigeria Nsukka",
         "degree": "Mechatronics Engineering",
-        "graduated": "pending",
-        "description": "Web developpment is a skill that dont require a degree"
+        "graduated": "",
+        "description": "we have the best developers selected over the world"
       }
     ],
     "work": [
       {
-        "company": "Ibuild",
+        "company": "IBuild",
         "title": "Team Member && React Specialist",
         "years": "July 2019 - Present",
-        "description": "We make the best web applications to boost your business"
+        "description": "We make the best landing pages and web applications to boost your business"
       }
     ],
     "skills": [
@@ -103,11 +103,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Hey Ema you are a guru when it comes to web development, i love what you are doing. Keep it up",
+        "text": "I love it when i see talented youths being creative. this team will always manage my web applications",
         "user": "Bethel Nweke"
       },
       {
-        "text": "You are really passionate about your area of profession, your spirit and devotion will take you to heigher levels",
+        "text": "You know what i love about you guys, you get to deliver in time and make technical value look so easy to come by",
         "user": "S.O.P"
       }
     ]
