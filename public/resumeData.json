@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "IBuild team",
+    "name": "DevBuild",
     "occupation": "A freelance company",
     "description": "Experts in web application development and mobile application development",
     "image": "sky.jpg",
-    "bio": "My name is Emmanuel Jacob, I'm a Mern Stack ReactJS Developer, Founder && ceo Ibuild team.",
+    "bio": "My name is Emmanuel Jacob, I'm a Mern Stack ReactJS Developer, Co-Founder && ceo Devbuild team.",
     "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
     "email": "emmanweke.ce@gmail.com",
     "phone": "+234 701 568 8584",
@@ -45,7 +45,7 @@
     ],
     "work": [
       {
-        "company": "IBuild",
+        "company": "DevBuild",
         "title": "Team Member && React Specialist",
         "years": "July 2019 - Present",
         "description": "We make the best landing pages and web applications to boost your business"
@@ -81,22 +81,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "#"
+        "title": "Libracin Demo",
+        "category": "libracin drug store (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "libracin.png",
+        "url": "http://Libracin-e4530.web.app"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "#"
+        "title": "Covid 19 tracker",
+        "category": "Covid-19 track records(ReactJS, NodeJS, MaterialUi, leafletMap)",
+        "image": "covid-19.png",
+        "url": "https://covid-tracker-7766d.web.app/"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "#"
+        "url": ""
       }
     ]
   },

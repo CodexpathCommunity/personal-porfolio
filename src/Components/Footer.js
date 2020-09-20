@@ -19,12 +19,12 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Ibuild team ♥️</li>
+            <li>Modified with love by the Devbuild team ♥️</li>
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Ibuild - Copyright 2020 Ibuild</li>
-              <li>Design by <a title="Styleshout" href="http://#/">Ibuild</a></li>
+              <li>&copy; All credit goes to Devbuild - Copyright 2020 Devbuild</li>
+              <li>Design by <a title="Styleshout" href="http://#/">Devbuild</a></li>
            </ul>
 
         </div>
