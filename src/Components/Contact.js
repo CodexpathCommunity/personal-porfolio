@@ -47,7 +47,7 @@ const Contact = ({ data }) => {
 
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input value={email} type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={e=> setEmail('emmanweke.ce@gmail.com')}/>
+						   <input value={email} type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={e=> setEmail('codexpath3@gmail.com')}/>
                   </div>
 
                   <div>

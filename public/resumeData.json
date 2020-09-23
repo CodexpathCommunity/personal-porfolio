@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "DevBuild",
+    "name": "DivBuilder",
     "occupation": "A freelance company",
-    "description": "Experts in web application development and mobile application development",
+    "description": "Excellent in media and web solutions. We bring together a creative team with the sole aim of establishing effective web and social media solutions for You.",
     "image": "sky.jpg",
-    "bio": "My name is Emmanuel Jacob, I'm a Mern Stack ReactJS Developer, Co-Founder && ceo Devbuild team.",
+    "bio": "Hi there I'm Emmanuel Jacob, co-founder and Lead Developer DivBuilder. It's gives our team of critical thinkers a thing of joy to be the solution to your needs.",
     "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
-    "email": "emmanweke.ce@gmail.com",
+    "email": "codexpath3@gmail.com",
     "phone": "+234 701 568 8584",
     "address": {
       "street": "Enugu",
@@ -34,46 +34,30 @@
     ]
   },
   "resume": {
-    "skillmessage": "React.js Mern stack developers with a ton of experience in programming. I bring your toughts to reality just contact me",
-    "education": [
-      {
-        "school": "University of Nigeria Nsukka",
-        "degree": "Mechatronics Engineering",
-        "graduated": "",
-        "description": "we have the best developers selected over the world"
-      }
-    ],
+    "skillmessage": "We have a decent level of experience that can be a solution to a number of Web and digital challenges.",
     "work": [
       {
-        "company": "DevBuild",
+        "company": "DivBuilder",
         "title": "Team Member && React Specialist",
         "years": "July 2019 - Present",
-        "description": "We make the best landing pages and web applications to boost your business"
+        "description": "We make the best landing pages and web applications to boost your business. we also provide solutions to digital marketing and promotions."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "99%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
+        "name": "MERN",
+        "level": "89%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Digital Marketing",
         "level": "80%"
       }
     ]
